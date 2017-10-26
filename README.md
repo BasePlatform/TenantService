@@ -1,2 +1,2 @@
 # Tenant
-Tenant service that manages the Tenants of the SAAS
+Tenant service that manages the tenants of the SAAS
